@@ -24,6 +24,7 @@
 - JavaScript
 - MySQL
 - CSS
+- Bootstrap
 
 #### Software 🌇
 - CodeBlocks
